@@ -35,7 +35,7 @@ export const ContentBox = styled.div`
 `;
 export const DeleteBtn = styled.div`
   margin-top: 4vh;
-  width: 30vw;
+  width: 200px;
   height: 5vh;
   border-radius: 20px;
   background: #dbf6ff;
